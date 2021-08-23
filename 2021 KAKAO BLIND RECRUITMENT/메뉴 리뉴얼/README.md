@@ -1,1 +1,1 @@
-
+- Dictionary에서 값이 가장 큰 key 찾는 법 : [k for k,v in dict.items() if max(dict.values()) == v]
