@@ -15,4 +15,4 @@
     - bisect 라는 이진탐색모듈도 있음
         - bisect_left(a, x)  : 정렬된 a에 x를 삽입할 위치를 리턴한다. x가 이미 있는 경우는 x의 위치를 반환한다.
         - bisect_right(a, x) : 정렬된 a에 x를 삽입할 위치를 리턴한다. x가 이미 있는 경우는 오른쪽(뒤)의 인덱스를 리턴한다.
-        - answer.append(len(pool) - bisect_left(pool, find)) 와 결과가 
+        - answer.append(len(pool) - bisect_left(pool, find)) 와 결과가 같다.
