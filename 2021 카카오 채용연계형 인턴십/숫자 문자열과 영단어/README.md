@@ -1,0 +1,4 @@
+- 0부터 커서를 설정하여 이동해가며 숫자를 만나면 바로 삽입, 알파벳은 계속 저장하며 매칭될 때 삽입
+- word랑 number에 0 빼먹지 말 것. 문제 잘 읽자
+- dictionary에 다 넣고 answer = s, answer.replace 사용하여 한번에 바꾸기 가능...
+- list로 해도 answer = s, answer.replace 로 index로 한번에 바꾸기도 가능
