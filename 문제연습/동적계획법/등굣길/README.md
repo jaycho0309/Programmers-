@@ -1,4 +1,4 @@
-# [등굣길 문제 바로가기](https://programmers.co.kr/learn/courses/30/lessons/42898)
+# [등굣길 문제링크](https://programmers.co.kr/learn/courses/30/lessons/42898)
 
 m!n!/(m+n)! 공식으로 풀까 생각했으나, 웅덩이가 최대 10개로 말도 안되는 combination 조합으로 예외처리 필요   
 따라서, 각 스텝마다 최소의 경로로 갈 수 있는 경우의 수를 적어가며 전진   
